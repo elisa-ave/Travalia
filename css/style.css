@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Courgette&family=Lobster&family=Lora:wght@400;700&family=Roboto:wght@300;400;500;700;900&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 16px;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Lobster', cursive;
+	font-size: 32px;
+}
+
+
+
+a {
+	text-decoration: none;
+}
+
+
+
